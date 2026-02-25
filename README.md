@@ -36,7 +36,7 @@ The **ResNet implementation is flexible**, allowing dynamic specification of the
 
 5. Evaluate results and visualize performance metrics.
 
-Results
+## Results
 
 ResNet outperformed other architectures in classification accuracy.
 
