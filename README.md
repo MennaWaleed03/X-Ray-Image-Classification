@@ -31,7 +31,7 @@ The **ResNet implementation is flexible**, allowing dynamic specification of the
 3. Train the models and experiment with different architectures.  
 4. For flexible ResNet:
 
-```python
+
 
 
 5. Evaluate results and visualize performance metrics.
@@ -40,6 +40,3 @@ Results
 
 ResNet outperformed other architectures in classification accuracy.
 
-Provides flexible experimentation with different ResNet depths.
-from models import ResNet
-model = ResNet(num_layers=50, num_classes=your_class_count)
